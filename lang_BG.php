@@ -341,6 +341,8 @@ $LANG = array(
     'is_blocked_by' => 'е блокиран от',
     'blocks' => 'блокира',
     'add_issue_link' => 'Свържи с тикет',
-    'find_by_word' => 'Намери по заглавие'
+    'find_by_word' => 'Намери по заглавие',
+    'recent_projects' => 'Последни проекти',
+    'current_project' => 'Текущ проект'
 );
 ?>
