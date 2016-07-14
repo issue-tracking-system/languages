@@ -341,6 +341,8 @@ $LANG = array(
     'is_blocked_by' => 'blockiert durch',
     'blocks' => 'blockier',
     'add_issue_link' => 'Kontakt mit Ticket',
-    'find_by_word' => 'finden Wort'
+    'find_by_word' => 'finden Wort',
+    'recent_projects' => 'Letzte Projekte',
+    'current_project' => 'derzeitiges Projekt'
 );
 ?>
