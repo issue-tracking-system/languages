@@ -342,5 +342,7 @@ $LANG = array(
     'blocks' => 'blocks',
     'add_issue_link' => 'Connect with ticket',
     'find_by_word' => 'Find by subject'
+    'recent_projects' => 'Recent projects',
+    'current_project' => 'Current project'
 );
 ?>
